@@ -1,0 +1,11 @@
+ 
+install git && -y &&   
+
+pkg install python -y &&   
+
+pkg install python2 -y &&   
+
+git clone https://github.com/Gameye98/Black-Hydra 
+
+echo "cd Black-Hydra"
+echo  "python2 blackhydra.py"
